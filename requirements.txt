@@ -1,0 +1,22 @@
+# Web Framework & Server Core
+Flask==3.0.2
+Werkzeug==3.0.1
+Flask-CORS==4.0.0
+gunicorn==21.2.0
+
+# Numerical Processing & Math
+numpy==1.24.3
+scipy==1.11.4
+
+# Audio Processing & Input/Output
+librosa==0.10.1
+soundfile==0.12.1
+audioread==3.0.1
+
+# Deep Learning & Speaker Verification
+torch==2.2.1
+speechbrain==0.5.15
+huggingface-hub==0.20.3
+
+# Visualization (Diagnostic Plots)
+matplotlib==3.8.2
